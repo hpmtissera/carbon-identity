@@ -36,7 +36,7 @@
     <modules>
         <module>basic-auth</module>
         <module>basicauth-request-path-auth</module>
-        <module>facebook</module>
+        <module>social</module>
         <module>iwa</module>
         <module>oauth-request-path-auth</module>
         <module>oidc</module>

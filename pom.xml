@@ -822,7 +822,7 @@
 
             <dependency>
                 <groupId>org.wso2.carbon.identity</groupId>
-                <artifactId>org.wso2.carbon.identity.application.authenticator.facebook</artifactId>
+                <artifactId>org.wso2.carbon.identity.application.authenticator.social</artifactId>
                 <version>${carbon.identity.version}</version>
             </dependency>
             <dependency>
@@ -858,7 +858,7 @@
             </dependency>
             <dependency>
                 <groupId>org.wso2.carbon.identity</groupId>
-                <artifactId>org.wso2.carbon.identity.application.authenticator.facebook.server.feature</artifactId>
+                <artifactId>org.wso2.carbon.identity.application.authenticator.social.server.feature</artifactId>
                 <version>${carbon.identity.version}</version>
             </dependency>
             <dependency>
